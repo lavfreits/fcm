@@ -9,7 +9,7 @@ Este é um aplicativo simples construído com Flutter para demonstrar o uso do F
 - **Configuração do Firebase**: Inicializa o Firebase e subscreve-se ao tópico de notificações.
 
 ## Screenshot
-<img src="Screenshot.png" alt="Captura de tela" width="400" height="750">
+<img src="Screenshot.png" alt="Captura de tela" width="360" height="790">
 
 
 ## Pré-requisitos
